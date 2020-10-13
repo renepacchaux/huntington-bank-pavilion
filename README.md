@@ -24,8 +24,8 @@ My third sketch contained a venue map.
 
 ## Case Study on Huntington Bank Pavilion
 
-#### Search
-![Figure 1](https://raw.githubusercontent.com/renepacchaux/huntington-bank-pavilion/assets/Figure%201%20-%20Originating%20Search.svg)
+#### Before the first landing
+![Figure 1](https://cdn.rawgit.com/renepacchaux/huntington-bank-pavilion/assets/Figure%201%20-%20Originating%20Search.svg)
 
 ### Venue Map
 #### Amenity Flow
