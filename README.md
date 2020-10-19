@@ -2,7 +2,7 @@
 
 ## UX on outdoor Chicago music venue
 ### Project goal
-In a concert, what's the process threading together memorable experiences event-goers buy into at a unique venue.
+In a concert, what's the process threading together memorable experiences?  What do event-goers buy into at a unique venue?
 
 ### Solution
 
