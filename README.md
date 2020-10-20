@@ -14,7 +14,7 @@ The initial role I took was user flow creator.  Out of the many perks of outdoo
 
 The UX team got to work. We wade through organic search.  A templatized ticketing website as ticket booth, we started to think about what the user would need.
 
-We need a map. ‍Notice the filterable optionsOur lovely venue has a weird seating format.
+We need a map. ‍Notice the filterable options. Our lovely venue has a weird seating format.
 
 I quickly assumed the aim of bringing in ticket sales. I will explain how we incorporated it into our next steps, given a total of two weeks to spend on the project.
 
