@@ -27,10 +27,16 @@ My third sketch contained a venue map.
 #### Before the first landing
 ![Figure 1](https://cdn.rawgit.com/renepacchaux/huntington-bank-pavilion/assets/Figure%201%20-%20Originating%20Search.svg)
 
+If the question is "want tickets?" then what is the _true website_ to get them at?  Search engines are expect to discount a template, to an extent that is not an authority.  What is the community? What is the business?  These, as unknowns, are not required to make a ticket transaction.  While it my be a 'cold' exchange, many details are lost -- details that contribute to the user's impression of the event.
+
+
+![Figure 2](https://cdn.rawgit.com/renepacchaux/huntington-bank-pavilion/assets/Figure%202%20-%20Choose%20event.svg)
+
+
 ### Venue Map
 #### Amenity Flow
 
-Having to deal with bad weather, (no umbrella), acquiescing to seat squatting, or just getting lost in navigation are some examples. Interviews that I and the team conducted point to the importance of experience-ruiners.  Moments that lose the fun of the concert, or lose the core experience are looming.  
+Having to deal with bad weather, (no umbrella), acquiescing to seat squatting, or just getting lost in navigation are some examples. Interviews that I and the team conducted point to the importance of experience-ruiners. Moments that lose the fun of the concert, or lose the core experience are looming.  
 
 Find below a "happy" path more deeply unravels depending on who is walking it.
 
