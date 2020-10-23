@@ -1,6 +1,10 @@
 # Huntington Bank Pavilion
 
 ## UX on outdoor Chicago music venue
+
+### Time to solution
+Two weeks.
+
 ### Project goal
 In a concert, what's the process threading together memorable experiences?  What do event-goers buy into at a unique venue?
 
@@ -16,9 +20,9 @@ The UX team got to work. We wade through organic search.  A templatized ticketi
 
 We need a map. ‍Notice the filterable options. Our lovely venue has a weird seating format.
 
-I quickly assumed the aim of bringing in ticket sales. I will explain how we incorporated it into our next steps, given a total of two weeks to spend on the project.
+I quickly assumed the aim of bringing in ticket sales. I will explain how we incorporated it into our next steps.
 
-Only two weeks.  We creatively sensed where to go, but it was reactive.How do we communicate boundaries? I sketched out the first steps toward a final prototype.
+We creatively sensed where to go, but it was reactive. How do we communicate boundaries? I sketched out the first steps toward a final prototype.
 
 My third sketch contained a venue map.
 
@@ -36,7 +40,7 @@ If the question is "want tickets?" then what is the _true website_ to get them a
 ### Venue Map
 #### Amenity Flow
 
-Having to deal with bad weather, (no umbrella), acquiescing to seat squatting, or just getting lost in navigation are some examples. Interviews that I and the team conducted point to the importance of experience-ruiners. Moments that lose the fun of the concert, or lose the core experience are looming.  
+Having to deal with bad weather, no umbrella, acquiescing to seat squatting, or just getting lost in navigation are some examples. Interviews that I and the team conducted point to the importance of experience-ruiners. Moments that lose the fun of the concert, or lose the core experience are looming.  
 
 Find below a "happy" path more deeply unravels depending on who is walking it.
 
