@@ -10,7 +10,7 @@ This outdoor band pavilion features concerts. In a concert, what's the process t
 
 ### Solution
 
-I created a user flow that met the needs of two representative users as two distinct personas. This allowed for amenity searches to center around a map of the venue. The relationship of the user to a concert-needs map secured those issues most insight indicated would ruin a concert experience overall.
+User flows are what I use to break down the inevitable connections present within a digital product.  I created a user flow that met the needs of two representative users as two distinct personas. This allowed for amenity searches to center around a map of the venue. The relationship of the user to a concert-needs map secured those issues most insight indicated would ruin a concert experience overall.
 
 ## The project
 
