@@ -10,7 +10,7 @@ This outdoor band pavilion features concerts. In a concert, what's the process t
 
 ### Solution
 
-User flows break down the inevitable connections present within the digital product. Inspecting the user's relationship to a concert-needs map secured insights indicating what would be important to the concert experience overall.  If a user was able to track down key amenities during their even at a faster pace, then we would know any planning had a smooth outcome.
+User flows break down the inevitable connections present within the digital product. Inspecting the user's relationship to a concert-needs map secured insights indicating what would be important to the concert experience overall.  If a user was able to track down key amenities during their even at a faster pace, then we would know any prior planning had a smooth outcome.
 
 ## The project
 
