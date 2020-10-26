@@ -3,7 +3,7 @@
 ## UX on outdoor Chicago music venue
 
 ### Time to solution
-Two weeks.
+Two weeks
 
 ### Project goal
 In a concert, what's the process threading together memorable experiences?  What do event-goers buy into at a unique venue?
