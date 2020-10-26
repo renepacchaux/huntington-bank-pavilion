@@ -6,7 +6,7 @@
 Two weeks
 
 ### Project goal
-In a concert, what's the process threading together memorable experiences?  What do event-goers buy into at a unique venue?
+This outdoor band pavilion features concerts. In a concert, what's the process threading together memorable experiences?  What do event-goers buy into at a unique venue?
 
 ### Solution
 
