@@ -6,15 +6,15 @@
 Two weeks
 
 ### Project goal
-In a concert, what's the process threading together memorable experiences?  What do event-goers buy into at a unique venue?
+What do event-goers buy into at a unique venue at an outdoor pavilion? The goal is to figure out how to make overal experiences better by building on what makes them memorable.
 
 ### Solution
 
-I created a user flow that met the needs of two representative users as two distinct personas. This allowed for amenity searches to center around a map of the venue. The relationship of the user to a concert-needs map secured those issues most insight indicated would ruin a concert experience overall.
+User flows break down the inevitable connections present within the digital product. Inspecting the user's relationship to a concert-needs map secured insights indicating what would be important to the concert experience overall.  If a user was able to track down key amenities during their even at a faster pace, then we would know any prior planning had a smooth outcome.
 
 ## The project
 
-The initial role I took was user flow creator.  Out of the many perks of outdoor concerts, (even if you like the rain), our team prepared by addressing some of the most significant risks that bear on a ruined concert experience. We make our main tool for the concert goer the mobile app, so that we can together navigate some of the issues that can make or break the concert experience.
+The initial role I took was user flow creator.  Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience. We make our main tool for the concert goer the mobile app, so that we can together navigate some of the issues that can make or break the concert experience.
 
 The UX team got to work. We wade through organic search.  A templatized ticketing website as ticket booth, we started to think about what the user would need.
 
@@ -28,10 +28,10 @@ My third on-paper sketch contained a venue map.
 
 ## Case Study on Huntington Bank Pavilion
 
-#### Before the first landing
+#### Landing on the site
 ![Figure 1](https://cdn.rawgit.com/renepacchaux/huntington-bank-pavilion/assets/Figure%201%20-%20Originating%20Search.svg)
 
-If the question is "want tickets?" then what is the _true website_ to get them at?  Search engines are expect to discount a template, to an extent that is not an authority.  What is the community? What is the business?  These, as unknowns, are not required to make a ticket transaction.  While it my be a 'cold' exchange, many details are lost -- details that contribute to the user's impression of the event.
+Search engines are expected to recognize and adjust ranking for a template, to an extent that is not an authority.  What is the community? What is the business?  These, as unknowns, are not required to make a ticket transaction.  While it my be a 'cold' exchange, many details are lost -- details that contribute to the user's impression of the event. If the question is "want tickets?" then what is the _true website_ to get them at?  
 
 
 ![Figure 2](https://cdn.rawgit.com/renepacchaux/huntington-bank-pavilion/assets/Figure%202%20-%20Choose%20event.svg)
