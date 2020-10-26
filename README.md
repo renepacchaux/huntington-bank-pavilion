@@ -6,7 +6,7 @@
 Two weeks
 
 ### Project goal
-This outdoor band pavilion features concerts. In a concert, what's the process threading together memorable experiences?  What do event-goers buy into at a unique venue?
+What do event-goers buy into at a unique venue at an outdoor pavilion? The goal is to figure out how to make overal experiences better by building on what makes them memorable.
 
 ### Solution
 
