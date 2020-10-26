@@ -36,6 +36,7 @@ Search engines are expected to recognize and adjust ranking for a template, to a
 
 ![Figure 2](https://cdn.rawgit.com/renepacchaux/huntington-bank-pavilion/assets/Figure%202%20-%20Choose%20event.svg)
 
+![Figure 3](https://cdn.rawgit.com/renepacchaux/huntington-bank-pavilion/assets/Figure%203%20Group%20Purchase.svg)
 
 ### Venue Map
 #### Amenity Flow
