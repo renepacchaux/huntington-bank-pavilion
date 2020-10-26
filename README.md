@@ -14,7 +14,7 @@ User flows break down the inevitable connections present within the digital prod
 
 ## Moving Parts within the project
 
-The initial role I took was user flow creator.  Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience. We make our main tool for the concert goer the mobile app, so that we can together navigate some of the issues that can make or break the concert experience.
+The initial role I took was user flow creator.  Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience by mapping out the flow. The main tool for the concert goer is the mobile app.  Together, the business and the user navigate some of the issues that can make or break the concert experience.
 
 The UX team got to work wading through organic search, at first.  A templatized ticketing website as ticket booth, we started to think about what the user would need.
 
