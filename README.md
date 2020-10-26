@@ -12,7 +12,7 @@ What do event-goers buy into at a unique venue at an outdoor pavilion? The goal 
 
 User flows break down the inevitable connections present within the digital product. Inspecting the user's relationship to a concert-needs map secured insights indicating what would be important to the concert experience overall.  If a user was able to track down key amenities during their even at a faster pace, then we would know any prior planning had a smooth outcome.
 
-## The project
+## Moving Parts within the project
 
 The initial role I took was user flow creator.  Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience. We make our main tool for the concert goer the mobile app, so that we can together navigate some of the issues that can make or break the concert experience.
 
