@@ -50,6 +50,7 @@ The interviews conducted shed light on a representative user. The business howev
 
 The Results and Key Takeaways
 The key problem included these at the very least:
+
 - Parking
 - Lost and Found
 - Weather and Rain
