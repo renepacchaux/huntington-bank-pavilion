@@ -2,6 +2,8 @@
 
 ## UX on outdoor Chicago music venue
 
+Music, outdoors, the lake, and favorite listening with friends.  How would you describe it? That bandshell on northerly island?  Post-sketchy Meigs Field...Hang? 
+
 ### Time to solution
 Two weeks
 
