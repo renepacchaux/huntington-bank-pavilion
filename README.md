@@ -8,7 +8,7 @@ Music, outdoors, the lake, and favorite listening with friends.  How would you d
 Two weeks
 
 ### Project goal
-What do event-goers make their goal when to figure out how to make overal experiences better by building on what makes them memorable.
+What do event-goers make their goal when figuring out that which keeps a concert memorable?
 
 ### Solution
 
