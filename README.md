@@ -55,7 +55,7 @@ Find below a "happy" path more deeply unravels depending on who is walking it.
 
 The interviews conducted shed light on a representative user. The business however was regional in the sense that the information you get to go to a concert is in a different place than where you would learn dates, times, rules, and same-day setups.
 
-The Results and Key Takeaways
+### The Results and Key Takeaways
 The key problem included these at the very least:
 
 ##### Parking
