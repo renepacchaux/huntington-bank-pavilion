@@ -4,7 +4,7 @@
 
 "Is it hot out -- is it a nice spot?".  Music, outdoors, the lake, and favorite listening with friends.  What if you _know_ it is not all great.  At what point do you just make it part of the experience?
 
-### Time to solution
+### Time allocated
 Two weeks
 
 ### Project goal
