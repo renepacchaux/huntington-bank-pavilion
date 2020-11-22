@@ -26,7 +26,7 @@ I quickly assumed the aim of bringing in ticket sales. I will explain how we inc
 
 We creatively sensed where to go, but it was reactive. How do we communicate boundaries? I sketched out the first steps toward a final prototype.
 
-My third on-paper sketch contained a venue map.
+My third on-paper sketch contained a venue-layout map.
 
 ## Case Study on Huntington Bank Pavilion
 
