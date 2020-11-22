@@ -2,7 +2,7 @@
 
 ## UX on outdoor Chicago music venue
 
-Music, outdoors, the lake, and favorite listening with friends.  How would you describe it? That bandshell on northerly island?  Post-sketchy Meigs Field...Hang? 
+"Is it hot out -- is it a nice spot?".  Music, outdoors, the lake, and favorite listening with friends.  What if you _know_ it is not all great.  At what point do you just make it part of the experience?
 
 ### Time to solution
 Two weeks
