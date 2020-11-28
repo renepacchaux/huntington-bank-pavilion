@@ -1,20 +1,19 @@
 # Huntington Bank Pavilion
 
-## UX on outdoor Chicago music venue
-
+## Navigating Northerly Island on mobile
 "Is it hot out -- is it a nice spot?".  Music, outdoors, the lake, and favorite listening with friends.  What if you _know_ it is not all great.  At what point do you surrender to bad weather and questionable parking as part of the overall experience?
 
 What do event-goers make their goal when figuring out that which keeps a concert memorable?
+ 
+If a user was able to track down key amenities during their even at a faster pace, then we would know any prior planning had a smooth outcome.
 
-User flows break down the inevitable connections present within the digital product. Inspecting the user's relationship to a concert-needs map secured insights indicating what would be important to the concert experience overall. If a user was able to track down key amenities during their even at a faster pace, then we would know any prior planning had a smooth outcome.
+### UX Case Study 
 
-### Case Study on Huntington Bank Pavilion
-
-If the question is "want tickets?" then what is the _true website_ to get them at?  
+If the question is "want tickets?" then what is the _true website_ to get them at? 
 
 ![Figure 5](https://cdn.jsdelivr.net/gh/renepacchaux/huntington-bank-pavilion@assets/Figure_5-Notify.svg)
 
-#### Moving Parts
+#### What had to come together.
 
 The initial role I took was user flow creator.  Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience by mapping out the flow. The main tool for the concert goer is the mobile app.  Together, the business and the user navigate some of the issues that can make or break the concert experience.
 
