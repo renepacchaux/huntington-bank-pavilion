@@ -10,21 +10,9 @@ User flows break down the inevitable connections present within the digital prod
 
 ### Case Study on Huntington Bank Pavilion
 
-![Figure 1](https://cdn.jsdelivr.net/gh/renepacchaux/huntington-bank-pavilion@assets/Figure_1-Originating_Search.svg)
-
 If the question is "want tickets?" then what is the _true website_ to get them at?  
 
-
-![Figure 2](https://cdn.jsdelivr.net/gh/renepacchaux/huntington-bank-pavilion@assets/Figure_2-Choose_event.svg)
-
-![Figure 3](https://cdn.jsdelivr.net/gh/renepacchaux/huntington-bank-pavilion@assets/Figure_3-Group_Purchase.svg)
-
-![Figure 4](https://cdn.jsdelivr.net/gh/renepacchaux/huntington-bank-pavilion@assets/Figure_4-Sharing.svg)
-
 ![Figure 5](https://cdn.jsdelivr.net/gh/renepacchaux/huntington-bank-pavilion@assets/Figure_5-Notify.svg)
-
-![Figure 6](https://cdn.jsdelivr.net/gh/renepacchaux/huntington-bank-pavilion@assets/Figure_6-Atmosphere.svg)
-
 
 #### Moving Parts
 
