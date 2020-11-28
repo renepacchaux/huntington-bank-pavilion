@@ -2,7 +2,7 @@
 
 ## UX on outdoor Chicago music venue
 
-"Is it hot out -- is it a nice spot?".  Music, outdoors, the lake, and favorite listening with friends.  What if you _know_ it is not all great.  At what point do you just make it part of the experience?
+"Is it hot out -- is it a nice spot?".  Music, outdoors, the lake, and favorite listening with friends.  What if you _know_ it is not all great.  At what point do you surrender to bad weather and questionable parking as part of the overall experience?
 
 ### Time allocated
 Two weeks
