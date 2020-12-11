@@ -7,3 +7,5 @@ process.yml
 # README.md.json
 
 serp_proxycrawl.json
+
+*.pdf

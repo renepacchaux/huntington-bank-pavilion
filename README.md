@@ -2,13 +2,13 @@
 
 ## Navigating Northerly Island on mobile
 "Is it hot out -- is it a nice spot?".  Music, outdoors, the lake, and favorite listening with friends.  What if you _know_ it is not all great.  At what point do you surrender to bad weather and questionable parking as part of the overall experience?
- 
+
 If a user was able to track down key amenities during their even at a faster pace, then we would know any prior planning had a smooth outcome.
 
 ### Project Challenge
-What tacit goals tdo event-goers create when figuring out what makes a memorable concert experience?
+What tacit goals do event-goers create when figuring out what makes a memorable concert experience?
 
-If the question is "want tickets?" then what is the _true website_ to get them at? 
+If the question is "want tickets?" then what is the _true website_ to get them at?
 
 ![Figure 5](https://cdn.jsdelivr.net/gh/renepacchaux/huntington-bank-pavilion@assets/Figure_5-Notify.svg)
 
