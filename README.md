@@ -12,7 +12,7 @@ If the question is "want tickets?" then what is the _true website_ to get them a
 
 ![Figure 5](https://cdn.jsdelivr.net/gh/renepacchaux/huntington-bank-pavilion@assets/Figure_5-Notify.svg)
 
-#### What had to come together.
+#### What had to come together. Ok.
 
 The initial role I took was user flow creator.  Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience by mapping out the flow. The main tool for the concert goer is the mobile app.  Together, the business and the user navigate some of the issues that can make or break the concert experience.
 
