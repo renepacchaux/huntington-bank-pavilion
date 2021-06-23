@@ -23,9 +23,9 @@ If the question is "want tickets?" then what is the _true website_ to get them a
 
 #### Process
 
-Since there was no real site, we though were on a good footing.  Weird, right.  The contents, or in SEO terms, 'authority' scattered, summarize our attitude as 'whoever was in charge here, really messed up'.  The truth is that this we were eager, anxious, happy to finally get started and our optimism was let loose on this project.  We started by memorializing our set of assumptions on paper.
+Our team had feelings of anxiety and optimism that needed to be housed in reality.  We let loose on paper and wrote down a set of assumptions, memorializing our thinking.  At the start, it was obvious that whoever was in charge of setting up a website, decided to go with a template, at best.  In summary, any search engines algorhythm scattered the results in agreement -- who was in charge, here?  
 
-The initial role I took was user flow creator.  Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience by mapping out the flow. The main tool for the concert goer is the mobile app.  Together, the business and the user navigate some of the issues that can make or break the concert experience.
+The initial role I took was user flow creator. Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience by mapping out the flow. The main tool for the concert goer is the mobile app.  Together, the business and the user navigate some of the issues that can make or break the concert experience.
 
 The UX team got to work wading through organic search, at first.  A templatized ticketing website as ticket booth, we started to think about what the user would need.
 
