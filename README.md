@@ -10,8 +10,8 @@ If a user was able to track down key amenities during their even at a faster pac
 
 ### Project Challenge
 
-There was no real site.
---
+Search engine consensus seemed scattered.
+
 What tacit goals do event-goers create when figuring out what makes a memorable concert experience?
 
 If the question is "want tickets?" then what is the _true website_ to get them at?
@@ -23,7 +23,7 @@ If the question is "want tickets?" then what is the _true website_ to get them a
 
 #### Process
 
-Our team had feelings of anxiety and optimism that needed to be housed in reality.  We let loose on paper and wrote down a set of assumptions, memorializing our thinking.  At the start, it was obvious that whoever was in charge of setting up a website, decided to go with a template, at best.  In summary, any search engines algorhythm scattered the results in agreement -- who was in charge, here?  
+How do we capture anxiety and optimism? Previous design decisions unavailable to us, our team had feelings of both.  We decided they needed to be written down to take a status snapshot of our thinking. “Who was in charge, here?” We continued to let loose on paper.  At first glance, it seemed that the previous design included the use of a template, to a large extent.   As a result, any search engine algorithm would seem to put forth scattered results.  
 
 The initial role I took was user flow creator. Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience by mapping out the flow. The main tool for the concert goer is the mobile app.  Together, the business and the user navigate some of the issues that can make or break the concert experience.
 
