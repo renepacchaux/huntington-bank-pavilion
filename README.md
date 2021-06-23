@@ -2,7 +2,7 @@
 
 ## Navigating Northerly Island on mobile
 
-I was eager to see the successful conclusion to this project. Ready to show off to our stakeholders, Our team opened the gates to lawless time allocation. A hypothetical design team might start at random todos in a project yet still be able to fight the current of a fun design prompt.  As long as you start drawing on excitement, what could stop you?   Early in the process, even the branding of our project was starting to take shape.  The team trajectory was one of intuitive solutions that felt well-imagined.  
+Early in the process, even the branding of our project was starting to take shape.  The team trajectory was one of intuitive solutions that felt well-imagined. I was eager to see the successful conclusion to this project. Ready to show off to our stakeholders, Our team opened the gates to lawless time allocation. As long as you start drawing on excitement, what could stop you?    
 
 "Is it hot out -- is it a nice spot?".  Music, outdoors, the lake, and favorite listening with friends.  What if you _know_ it is not all great.  At what point do you surrender to bad weather and questionable parking as part of the overall experience?
 
