@@ -9,13 +9,21 @@ Early in the process, even the branding of our project was starting to take shap
 If a user was able to track down key amenities during their even at a faster pace, then we would know any prior planning had a smooth outcome.
 
 ### Project Challenge
+
+There was no real site.
+--
 What tacit goals do event-goers create when figuring out what makes a memorable concert experience?
 
 If the question is "want tickets?" then what is the _true website_ to get them at?
 
 ![Figure 5](https://cdn.jsdelivr.net/gh/renepacchaux/huntington-bank-pavilion@assets/Figure_5-Notify.svg)
 
-#### What had to come together. Ok.
+
+
+
+#### Process
+
+Since there was no real site, we though were on a good footing.  Weird, right.  The contents, or in SEO terms, 'authority' scattered, summarize our attitude as 'whoever was in charge here, really messed up'.  The truth is that this we were eager, anxious, happy to finally get started and our optimism was let loose on this project.  We started by memorializing our set of assumptions on paper.
 
 The initial role I took was user flow creator.  Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience by mapping out the flow. The main tool for the concert goer is the mobile app.  Together, the business and the user navigate some of the issues that can make or break the concert experience.
 
