@@ -2,7 +2,7 @@
 
 ## Navigating Northerly Island on mobile
 
-A hypothetical design team right start at random points in a project and gets pulled by the current of the feeling invoked by the design prompt.  Our team opened the gates to time allocation.  Take as much or as little as you want, as long as you start drawing on your excitement.  The branding of our project was starting to take shape very early in the process.  The trajectory our team was taking was one of early solutions early and well-imagined.  While I was eager to see the successful conclusion to this project, it was as if the team already knew what was to be presented.
+A hypothetical design team right start at random points in a project and gets pulled by the current of the feeling invoked by the design prompt.  Our team opened the gates to time allocation.  Take as much or as little as you want, as long as you start drawing on your excitement.  The branding of our project was starting to take shape very early in the process.  The trajectory our team was taking was one of early solutions early and well-imagined.  While I was eager to see the successful conclusion to this project, it was as if the team was ready to show off to our stakeholders.
 
 "Is it hot out -- is it a nice spot?".  Music, outdoors, the lake, and favorite listening with friends.  What if you _know_ it is not all great.  At what point do you surrender to bad weather and questionable parking as part of the overall experience?
 
