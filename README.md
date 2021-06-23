@@ -34,8 +34,7 @@ The UX team got to work wading through organic search, at first.  A templatized 
 The initial role I took was user flow creator. Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience by mapping out the flow. The main tool for the concert goer is the mobile app.  Together, the business and the user navigate some of the issues that can make or break the concert experience.
 --
 
-I felt stupid for wasting someone elses time for my interview.   My stickies that I made from package labels to follow my questions on my interview sheet [i can let the questions follow my interview flow.  It reminds me not to ask rigidly]  are all for nothing.  "Oh, well" was my impromptu way of playing it off.  That's it and nothing more exciting.  At that point, I though it be best if I stay on a chill disposition and not let it bother my interviewee that my questioning seems to have stopped.  There was only room for conversation now.
-
+I played a little too close into the idea of laser-guided interview.  I thought that if my questions were prepared well, my inquiry would feel like conversation.  My chill default did kick in, at 1/4 of the way into the interview. But, I let a unexpected start bother me. I thought I would not receive what I needed as soon as the line of questioning felt foreign to me, the person asking the questions.
 
 
 We need a map. ‍Notice the filterable options. Our lovely venue has a weird seating format.
