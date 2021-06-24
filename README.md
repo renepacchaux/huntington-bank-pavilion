@@ -53,3 +53,8 @@ Having to deal with bad weather, no umbrella, acquiescing to seat squatting, or 
 Find below a "happy" path more deeply unravels depending on who is walking it.
 
 The interviews conducted shed light on a representative user. The business however was regional in the sense that the information you get to go to a concert is in a different place than where you would learn dates, times, rules, and same-day setups.
+
+#### Lessons learned
+
+Step in, address, discuss, and time box to an agreement.  Time pressure is coming.  Don't let that train pull away without at least an opportunity to set the framework to gel as a team.
+
