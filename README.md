@@ -37,6 +37,11 @@ I played a little too close into the idea of a laser-guided interview.  I though
 
 We need a map. ‍Notice the filterable options. Our lovely venue has a weird seating format.
 -- 
+
+Our adhoc PM Delegated a bit uphill. The process was freeform. Few guardrails were set after we did our research. We worked towards our overall requirements by sketching, gaining an understanding of our representative user, joining meetings - but with a shortfall in welding our visualizations together through the process, opting for focusing on the finish line. The result is a slightly partitioned experience for the user.
+
+
+
 I quickly assumed the aim of bringing in ticket sales. I will explain how we incorporated it into our next steps.
 
 We creatively sensed where to go, but it was reactive. How do we communicate boundaries? I sketched out the first steps toward a final prototype.
@@ -57,4 +62,3 @@ The interviews conducted shed light on a representative user. The business howev
 #### Lessons learned
 
 Step in, address, discuss, and time box to an agreement.  Time pressure is coming.  Don't let that train pull away without at least an opportunity to set the framework to gel as a team.
-
