@@ -26,6 +26,8 @@ How do we capture anxiety and optimism? Previous design decisions unavailable to
 The UX team got to work wading through organic search, at first.  A templatized ticketing website as ticket booth, we started to think about what the user would need.
 ---
 
+Onboarding ad walkthroughs were peaking in popularity. Would we hit the mark to start with a tour of all features? With this at top of mind,I had begun to risk away my 1/4 of the team synthesis. I failed to get comfortable with comprehensive with the user flow. I knew it and tried immediately to move past it.
+
 
 The initial role I took was user flow creator. Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience by mapping out the flow. The main tool for the concert goer is the mobile app.  Together, the business and the user navigate some of the issues that can make or break the concert experience.
 --
