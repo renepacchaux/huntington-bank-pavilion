@@ -2,27 +2,32 @@
 
 ## Navigating Northerly Island on mobile
 
+Early in the process, even the branding of our project was starting to take shape.  The team trajectory imagined intuitive solutions that felt well-imagined. I was already  eager to see the successful conclusion to this project. 
 
-Like trying to ship balloons by getting them into the suitcase, I must compress a design process that focuses on small talk topics like the weather. 
+Ready to show off to our stakeholders, our team opened the gates to lawless time allocation. As long as you  draw on excitement, what could stop you?    
 
 ### Project Challenge
 
-How do we improve the digital experience of buying and attending a show at an outdoor music venue?
+How do we improve the digital experience of purchasing a ticket and going to a show at an outdoor music venue?
 
-#### Current state
-
-Search engine consensus seemed scattered.
+.
 
 #### Process
+Like trying to ship balloons by getting them into the suitcase, I will compress a design process that focuses on seemingly small topics like the weather. 
 
-Early in the process, even the branding of our project was starting to take shape.  The team trajectory imagined intuitive solutions that felt well-imagined. I was eager to see the successful conclusion to this project. Ready to show off to our stakeholders, Our team opened the gates to lawless time allocation. As long as you start drawing on excitement, what could stop you?    
 
-How do we capture anxiety and optimism? Previous design decisions unavailable to us, our team had feelings of both.  We decided they needed to be written down to take a status snapshot of our thinking. “Who was in charge, here?” We continued to let loose on paper.  At first glance, it seemed that the previous design included the use of a template, to a large extent.   As a result, any search engine algorithm would seem to put forth scattered results.  
+##### Current state
 
-The UX team got to work wading through organic search, at first.  A templatized ticketing website as ticket booth, we started to think about what the user would need.
+Search engine consensus seemed scattered
+
+
+
+How do I capture anxiety and optimism? Previous design decisions unavailable to us, our team had feelings of both.  We decided they needed to be written down to take a status snapshot of our thinking. “Who was in charge, here?” We continued to let loose on paper.  At first glance, it seemed that the previous design included the use of a template, to a large extent.   As a result, any search engine algorithm would seem to put forth scattered results.  
+
+The UX team got to work.  We were wading through organic search, at first.  A templatized ticketing website as ticket booth, we started to think about what the user would need.
 ---
 
-Onboarding ad walkthroughs were peaking in popularity. Would we hit the mark to start with a tour of all features? With this at top of mind,I had begun to risk away my 1/4 of the team synthesis. I failed to get comfortable with comprehensive with the user flow. I knew it and tried immediately to move past it.
+Among our group, onboarding and walkthroughs seemed to be peaking in popularity. Would we hit the mark to start with a tour of all features? With this at top of mind,I had begun to risk away my 1/4 of the team synthesis. I failed to get comfortable with comprehensive with the user flow. I knew it and tried immediately to move past it.
 
 
 The initial role I took was user flow creator. Out of the many perks of attending an outdoor concert, (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience by mapping out the flow. The main tool for the concert goer is the mobile app.  Together, the business and the user navigate some of the issues that can make or break the concert experience.
