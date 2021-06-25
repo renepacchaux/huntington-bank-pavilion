@@ -36,7 +36,7 @@ The users’ case for wanting to find amenities was injected and assumed early. 
 We need a map. ‍Notice the filterable options. Our lovely venue has a weird seating format.
 -- 
 
-Our adhoc PM Delegated a bit uphill. The process was freeform. Few guardrails were set after we did our research. We worked towards our overall requirements by sketching, gaining an understanding of our representative user, joining meetings - but with a shortfall in welding our visualizations together through the process, opting for focusing on the finish line. The result is a slightly partitioned experience for the user.
+Our adhoc PM Delegated uphill, not envied by me. The process was freeform. Few guardrails were set after we did our research. We worked towards our overall requirements by sketching, gaining an understanding of our representative user, joining meetings - but with a shortfall in welding our visualizations together through the process, opting for focusing on the finish line. The result is a slightly partitioned experience for the user.
 
 
 
