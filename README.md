@@ -10,13 +10,7 @@ Like trying to ship balloons by getting them into the suitcase, I must compress 
 
 Search engine consensus seemed scattered.
 
-What tacit goals do event-goers create when figuring out what makes a memorable concert experience?
--- 
-If the question is "want tickets?" then what is the _true website_ to get them at?
--- 
-![Figure 5](https://cdn.jsdelivr.net/gh/renepacchaux/huntington-bank-pavilion@assets/Figure_5-Notify.svg)
-
-
+.
 
 
 #### Process
@@ -33,6 +27,9 @@ The initial role I took was user flow creator. Out of the many perks of attendin
 --
 
 I played a little too close into the idea of a laser-guided interview.  I thought that if my questions were prepared well, my inquiry would feel like conversation.  My chill default did kick in, at 1/4 of the way into the interview. But, I let a unexpected start bother me. I thought I would not receive what I needed as soon as the line of questioning felt foreign to me, the person asking the questions.
+
+##### Design at synthesis
+The users’ case for wanting to find amenities was injected and assumed early. I mean, they already bought tickets! When I volunteered as the cartographer, I departed from fleshing out the delta between a user flow where you primary buy tickets to one where you start already at the show. That is only  50% of the battle.
 
 
 We need a map. ‍Notice the filterable options. Our lovely venue has a weird seating format.
@@ -60,5 +57,7 @@ Find below a "happy" path more deeply unravels depending on who is walking it.
 The interviews conducted shed light on a representative user. The business however was regional in the sense that the information you get to go to a concert is in a different place than where you would learn dates, times, rules, and same-day setups.
 
 #### Lessons learned
+
+
 
 Step in, address, discuss, and time box to an agreement.  Time pressure is coming.  Don't let that train pull away without at least an opportunity to set the framework to gel as a team.
