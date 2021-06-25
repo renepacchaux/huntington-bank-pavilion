@@ -2,18 +2,20 @@
 
 ## Navigating Northerly Island on mobile
 
-Early in the process, even the branding of our project was starting to take shape.  The team trajectory was one of intuitive solutions that felt well-imagined. I was eager to see the successful conclusion to this project. Ready to show off to our stakeholders, Our team opened the gates to lawless time allocation. As long as you start drawing on excitement, what could stop you?    
 
-Like trying to ship balloons by getting them into the suitcase, I must compress a design experience that focuses on small talk topics like the weather. 
+Like trying to ship balloons by getting them into the suitcase, I must compress a design process that focuses on small talk topics like the weather. 
 
 ### Project Challenge
 
+How do we improve the digital experience of buying and attending a show at an outdoor music venue?
+
+#### Current state
+
 Search engine consensus seemed scattered.
 
-.
-
-
 #### Process
+
+Early in the process, even the branding of our project was starting to take shape.  The team trajectory imagined intuitive solutions that felt well-imagined. I was eager to see the successful conclusion to this project. Ready to show off to our stakeholders, Our team opened the gates to lawless time allocation. As long as you start drawing on excitement, what could stop you?    
 
 How do we capture anxiety and optimism? Previous design decisions unavailable to us, our team had feelings of both.  We decided they needed to be written down to take a status snapshot of our thinking. “Who was in charge, here?” We continued to let loose on paper.  At first glance, it seemed that the previous design included the use of a template, to a large extent.   As a result, any search engine algorithm would seem to put forth scattered results.  
 
