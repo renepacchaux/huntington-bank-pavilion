@@ -1,28 +1,24 @@
 # Huntington Bank Pavilion
 
 ## Navigating Northerly Island on mobile
-
 Early in the process, even the branding of our project was starting to take shape.  The team trajectory imagined intuitive solutions that felt well-imagined. I was already  eager to see the successful conclusion to this project. 
 
 Ready to show off to our stakeholders, our team opened the gates to lawless time allocation. As long as you  draw on excitement, what could stop you?    
 
 ### Project Challenge
-
 How do we improve the digital experience of purchasing a ticket and going to a show at an outdoor music venue?
 
-.
-
 #### Process
+
+Which website has search authority? Search engine consensus seemed scattered. This could be an opportunity.  Our team was anxious  and optimistic.
+
 Like trying to ship balloons by getting them into the suitcase, I will compress a design process that focuses on seemingly small topics like the weather. 
 
+Previous design decisions were unavailable to us. To take a status snapshot of our thinking, we proceeded to let loose on paper.  
 
-##### Current state
+At first glance, it seemed that the previous design included the use of a template, to a large extent.   As a result, any search engine algorithm would seem to put forth scattered results.  
 
-Search engine consensus seemed scattered
-
-
-
-How do I capture anxiety and optimism? Previous design decisions unavailable to us, our team had feelings of both.  We decided they needed to be written down to take a status snapshot of our thinking. “Who was in charge, here?” We continued to let loose on paper.  At first glance, it seemed that the previous design included the use of a template, to a large extent.   As a result, any search engine algorithm would seem to put forth scattered results.  
+Why reach there? As a UX Team, we wanted to make sure we were aware of the user’ experience at the absolute beginning. A mobile task may start with a text, a crowded room request,or any other number of circumstances.
 
 The UX team got to work.  We were wading through organic search, at first.  A templatized ticketing website as ticket booth, we started to think about what the user would need.
 ---
