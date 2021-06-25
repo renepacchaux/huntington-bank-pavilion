@@ -18,11 +18,9 @@ Previous design decisions were unavailable to us. To take a status snapshot of o
 
 At first glance, it seemed that the previous design included the use of a template, to a large extent.   As a result, any search engine algorithm would seem to put forth scattered results.  
 
-Why reach there? As a UX Team, we wanted to make sure we were aware of the user’ experience at the absolute beginning. A mobile task may start with a text, a crowded room request,or any other number of circumstances.
+Why reach there? As a UX Team, we wanted to make sure we were aware of the user’ experience at the absolute beginning. A mobile task may start with a text, a crowded room request, or any other number of circumstances 
 
-The UX team got to work.  We were wading through organic search, at first.  A templatized ticketing website as ticket booth, we started to think about what the user would need.
----
-
+#####  What the user would need to buy tix
 Among our group, onboarding and walkthroughs seemed to be peaking in popularity. Would we hit the mark to start with a tour of all features? With this at top of mind,I had begun to risk away my 1/4 of the team synthesis. I failed to get comfortable with comprehensive with the user flow. I knew it and tried immediately to move past it.
 
 
