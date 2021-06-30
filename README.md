@@ -36,6 +36,7 @@ The users’ case for wanting to find amenities was injected and assumed early. 
 We need a map. ‍Notice the filterable options. Our lovely venue has a weird seating format.
 -- 
 
+
 Our adhoc PM Delegated uphill, not envied by me. The process was freeform. Few guardrails were set after we did our research. We worked towards our overall requirements by sketching, gaining an understanding of our representative user, joining meetings - but with a shortfall in welding our visualizations together through the process, opting for focusing on the finish line. The result is a slightly partitioned experience for the user.
 
 
@@ -48,7 +49,6 @@ We creatively sensed where to go, but it was reactive. How do we communicate bou
 
 
 My third on-paper sketch contained a venue-layout map.
-
 ---
 
 Having to deal with bad weather, no umbrella, acquiescing to seat squatting, or just getting lost in navigation are some examples. Interviews that I and the team conducted point to the importance of experience-ruiners. Moments that lose the fun of the concert, or lose the core experience are looming.  
@@ -58,7 +58,4 @@ Find below a "happy" path more deeply unravels depending on who is walking it.
 The interviews conducted shed light on a representative user. The business however was regional in the sense that the information you get to go to a concert is in a different place than where you would learn dates, times, rules, and same-day setups.
 
 #### Lessons learned
-
-
-
 Step in, address, discuss, and time box to an agreement.  Time pressure is coming.  Don't let that train pull away without at least an opportunity to set the framework to gel as a team.
