@@ -33,7 +33,7 @@ I played a little too close into the idea of a laser-guided interview.  I though
 The users’ case for wanting to find amenities was injected and assumed early. I mean, they already bought tickets! When I volunteered as the cartographer, I departed from fleshing out the delta between a user flow where you primary buy tickets to one where you start already at the show. That is only  50% of the battle.
 
 
-I armed the app for relevanc, attaching a map with the understanding that visualizing the stadium is what the user shapes in their mind, as something now relevant to them.  The stakeholder would want wquicker uptake, reference to app.  But have I broken it?  Is my vasualization so specialized that it can break the teams implementation of heirarchy, for example?
+I armed the app for relevanc, attaching a map with the understanding that visualizing the stadium is what the user shapes in their mind, as something now relevant to them.  The stakeholder would want quicker uptake, reference to app.  But have I broken it?  Is my vasualization so specialized that it can break the teams implementation of heirarchy, for example?
 
 Notice the filterable options. Our lovely venue has a weird seating format.
 -- 
