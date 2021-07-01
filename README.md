@@ -1,6 +1,6 @@
 # Huntington Bank Pavilion
 
-## Navigating Northerly Island on mobile
+## Navigating Northerly Island on Mobile
 Early on in the process, even the branding of our project was starting to take shape.  The team trajectory imagined intuitive solutions that felt well-imagined. I was already eager to see the successful conclusion to this project. 
 
 Ready to show off to our stakeholders, our team opened the gates to lawless time allocation. As long as you draw on excitement, what could stop you?    
@@ -27,7 +27,7 @@ Among our group, onboarding and walkthroughs seemed to be peaking in popularity.
 The initial role I took was user flow creator. Out of the many perks of attending an outdoor concert (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience by mapping out the flow. The primary tool for the concert-goer is the mobile app.  Together, the business and the user navigate some of the issues that can make or break the concert experience.
 --
 
-I played a little too close into the idea of a laser-guided interview.  I thought that if my questions were prepared well, my inquiry would feel like a conversation.  My chill default did kick in at 1/4 of the way into the interview. But, I let an unexpected start bother me. I thought I would not receive what I needed as soon as the line of questioning felt foreign to me, the person asking the questions.
+I played a little too close into the idea of a laser-guided interview.  I thought that if my questions were well-prepared, my inquiry would feel like a conversation.  My chill default did kick in at 1/4 of the way into the interview. But, I let an unexpected start bother me. I thought I would not receive what I needed as soon as the line of questioning felt foreign to me, the person asking the questions.
 
 ##### Design at synthesis
 The users’ case for wanting to find amenities was injected and assumed early. I mean, they already bought tickets! When I volunteered as the cartographer, I departed from fleshing out the delta between a user flow where you primary buy tickets to one where you start already at the show. That is only  50% of the battle.
@@ -39,7 +39,7 @@ Notice the filterable options. Our lovely venue has a weird seating format.
 -- 
 
 
-Our adhoc PM Delegated uphill, not envied by me. The process was freeform. Few guardrails were set after we did our research. We worked towards our overall requirements by sketching, understanding our representative user, joining meetings - but with a shortfall in welding our visualizations together through the process, opting for focusing on the finish line. The result is a slightly partitioned experience for the user.
+Our adhoc PM Delegated uphill, not envied by me. The process was freeform. Few guardrails were set up after we did our research. We worked towards our overall requirements by sketching, understanding our representative user, joining meetings - but with a shortfall in welding our visualizations together through the process, opting for focusing on the finish line. The result is a slightly partitioned experience for the user.
 
 
 
@@ -57,7 +57,7 @@ Having to deal with bad weather, no umbrella, acquiescing to seat squatting, or 
 
 Find below a "happy" path more deeply unravels depending on who is walking it.
 
-The interviews were conducted shed light on a representative user. The business, however, was regional in the sense that the information you get to go to a concert is in a different place than where you would learn dates, times, rules, and same-day setups.
+The interviews were conducted to shed light on a representative user. The business, however, was regional in the sense that the information you get to go to a concert is in a different place than where you would learn dates, times, rules, and same-day setups.
 
 #### Lessons learned
 Step in, address, discuss, and time box to an agreement.  Time pressure is coming.  Don't let that train pull away without at least an opportunity to set the framework to gel as a team.
