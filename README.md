@@ -49,9 +49,6 @@ My third on-paper sketch contained a venue layout map.
 --
 
 Having to deal with bad weather, no umbrella, acquiescing to seat squatting, or just getting lost in navigation are examples. Interviews that the team and I conducted point to the importance of experience-ruiners. Moments that lose the fun of the concert or lose the core experience are looming.  
--- 
-
-Find below a "happy" path more deeply unravels depending on who is walking it.
 --
 
 The interviews were conducted to shed light on a representative user. The business, however, was regional in the sense that the information you get to go to a concert is in a different place than where you would learn dates, times, rules, and same-day setups.
