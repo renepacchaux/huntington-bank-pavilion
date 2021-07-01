@@ -35,24 +35,24 @@ I armed the app for relevance, attaching a map with the understanding that visua
 Notice the filterable options. Our lovely venue has a weird seating format.
 -- 
 
-
 Our adhoc PM Delegated uphill, not envied by me. The process was freeform. Few guardrails were set up after we did our research. We worked towards our overall requirements by sketching, understanding our representative user, joining meetings - but with a shortfall in welding our visualizations together through the process, opting for focusing on the finish line. The result is a slightly partitioned experience for the user.
 
 
 
 I quickly assumed the aim of bringing in ticket sales. I will explain how we incorporated it into our next steps.
+--
 
 We creatively sensed where to go, but it was reactive. How do we communicate boundaries? I sketched out the first steps toward a final prototype.
 --
-
-
 
 My third on-paper sketch contained a venue layout map.
 --
 
 Having to deal with bad weather, no umbrella, acquiescing to seat squatting, or just getting lost in navigation are examples. Interviews that the team and I conducted point to the importance of experience-ruiners. Moments that lose the fun of the concert or lose the core experience are looming.  
+-- 
 
 Find below a "happy" path more deeply unravels depending on who is walking it.
+--
 
 The interviews were conducted to shed light on a representative user. The business, however, was regional in the sense that the information you get to go to a concert is in a different place than where you would learn dates, times, rules, and same-day setups.
 
