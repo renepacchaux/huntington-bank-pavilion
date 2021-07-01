@@ -39,14 +39,6 @@ Our adhoc PM Delegated uphill, not envied by me. The process was freeform. Few g
 
 
 
-I quickly assumed the aim of bringing in ticket sales. I will explain how we incorporated it into our next steps.
---
-
-We creatively sensed where to go, but it was reactive. How do we communicate boundaries? I sketched out the first steps toward a final prototype.
---
-
-My third on-paper sketch contained a venue layout map.
---
 
 Having to deal with bad weather, no umbrella, acquiescing to seat squatting, or just getting lost in navigation are examples. Interviews that the team and I conducted point to the importance of experience-ruiners. Moments that lose the fun of the concert or lose the core experience are looming.  
 --
