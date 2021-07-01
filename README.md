@@ -5,7 +5,7 @@
 
 Early on in the process, I was eager to see the successful conclusion to this project. 
 
-Our team time allocation was lawless. We were drawing on excitement. The branding of our project was starting to take shape.  The team trajectory imagined solutions that felt intuative because we felt unstoppable.
+Our team's time allocation was lawless. We were drawing on excitement. The branding of our project was starting to take shape.  The team trajectory imagined solutions that felt intuitive because we felt unstoppable.
 
 In two weeks, we were ready to show off to our stakeholders.   
 
