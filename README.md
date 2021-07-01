@@ -24,12 +24,6 @@ Why reach there? As a UX Team, we wanted to make sure we were aware of the userâ
 Among our group, onboarding and walkthroughs seemed to be peaking in popularity. Would we hit the mark to start with a tour of all features? With this at top of mind, I had begun to risk away my 1/4 of the team synthesis. I failed to get comfortable and comprehensive with the user flow. I knew it and tried immediately to move past it.
 
 
-The initial role I took was user flow creator. Out of the many perks of attending an outdoor concert (even if you like the rain), we start by addressing some of the most significant risks that may come to bear on a ruined concert experience by mapping out the flow. 
---
-
-The primary tool for the concert-goer is the mobile app.  Together, the business and the user navigate some of the issues that can make or break the concert experience.
---
-
 I played a little too close into the idea of a laser-guided interview.  I thought that if my questions were well-prepared, my inquiry would feel like a conversation.  My chill default did kick in at 1/4 of the way into the interview. But, I let an unexpected start bother me. I thought I would not receive what I needed as soon as the line of questioning felt foreign to me, the person asking the questions.
 
 ##### Design at synthesis
