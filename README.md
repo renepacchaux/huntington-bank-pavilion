@@ -1,7 +1,7 @@
 # Huntington Bank Pavilion
 
 ## Navigating Northerly Island on Mobile
-Early on in the process, even the branding of our project was starting to take shape.  The team trajectory imagined intuitive solutions that felt well-imagined. I was already eager to see the successful conclusion to this project. 
+Early on in the process, even the branding of our project was starting to take shape.  The team trajectory imagined solutions that felt intuative. I was already eager to see the successful conclusion to this project. 
 
 Ready to show off to our stakeholders, our team opened the gates to lawless time allocation. As long as you draw on excitement, what could stop you?    
 
