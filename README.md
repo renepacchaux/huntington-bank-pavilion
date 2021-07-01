@@ -3,13 +3,11 @@
 ## Navigating Northerly Island on Mobile
 
 
-Early on in the process, I was eager to see the successful conclusion to this project.
+Early on in the process, I was eager to see the successful conclusion to this project. 
 
+Our team time allocation was lawless. We were drawing on excitement. The branding of our project was starting to take shape.  The team trajectory imagined solutions that felt intuative because we felt unstoppable.
 
-The branding of our project was starting to take shape.  The team trajectory imagined solutions that felt intuative.
-
-
-Ready to show off to our stakeholders, our team opened the gates to lawless time allocation. As long as you draw on excitement, what could stop you?    
+In two weeks, we were ready to show off to our stakeholders.   
 
 ### Project Challenge
 How do we improve the digital experience of purchasing a ticket and going to a show at an outdoor music venue?
