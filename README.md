@@ -2,7 +2,7 @@
 
 ## Navigating Northerly Island
 
-I was eager to see the conclusion ofthis project. We had two weeks to finish.
+I was eager to see the conclusion of this project. We had two weeks to finish.
 
 ### Project Challenge
 
