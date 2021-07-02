@@ -18,7 +18,7 @@ Previous design decisions were unavailable to us. We took a status snapshot of o
 
 At first glance, it seemed that the previous design effectiveness was buried under confusing search engine results.  This was the beginning of our flow.
 
-Why there? As a UX Team, we wanted to make sure we were aware of the user’s experience at the absolute beginning. A mobile task may start with any number of circustances:
+Why there? As a UX Team, we wanted to make sure we were aware of the user frustrations at the very beginning. A mobile task may start with any number of circustances:
 
 \- a text
 \- a crowded room request
