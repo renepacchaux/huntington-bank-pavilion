@@ -20,7 +20,7 @@ At first glance, it seemed that the previous design effectiveness was buried und
 
 Why there? As a UX Team, we wanted to make sure we were aware of the user’s experience at the absolute beginning. A mobile task may start with a text, a crowded room request, or any other number of circumstances 
 
-#####  What the user would need to buy tix
+#####  What the user would need to buy tickets
 
 Among our group, onboarding and walkthroughs seemed to be peaking in popularity. Would we hit the mark to start with a tour of all features? With this at top of mind, I had begun to risk away my 1/4 of the team synthesis. I failed to get comfortable and comprehensive with the user flow. I knew it and tried immediately to move past it.
 
