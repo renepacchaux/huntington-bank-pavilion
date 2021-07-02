@@ -1,15 +1,15 @@
 # Outdoor Music Venue
 
 ## Navigating Northerly Island
-I was eager to see the successful conclusion to this project. In two weeks, we were to present to our stakeholders.
+I was eager to see the successful conclusion to this project. We had two weeks.
 
 ### Project Challenge
-How do we improve the experience going to an outdoor show and mobile ticket purchasing?
+How do we improve the experience going to an outdoor show?
 
 #### Process
 This could be an opportunity.  Our team was anxious and optimistic.
 
-Like trying to ship balloons by getting them into the suitcase, I will compress a design process that focuses on seemingly small topics like the weather. 
+~~Like trying to ship balloons by getting them into the suitcase, ~~I will compress a design process that focuses on seemingly small topics like the weather. 
 
 Previous design decisions were unavailable to us. To take a status snapshot of our thinking, we proceeded to let loose on paper.  
 
