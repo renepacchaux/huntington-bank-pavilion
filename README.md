@@ -14,11 +14,11 @@ A design process that focuses on topics like the weather will be compressed into
 
 #### Process
 
-Previous design decisions were unavailable to us. We took a status snapshot of our thinking on loose leaf paper.  
+Previous design decisions were unavailable to us. We took a status snapshot of our thinking on loose-leaf paper.  
 
 At first glance, it seemed that the previous design effectiveness was buried under confusing search engine results.  This was the beginning of our flow.
 
-Why there? As a UX Team, we wanted to make sure we were aware of the user frustrations at the very beginning. A mobile task may start with any number of circustances:
+Why there? As a UX Team, we wanted to make sure we were aware of the user frustrations at the very beginning. A mobile task may start with any number of circumstances:
 
 \- a text
 \- a crowded room request
@@ -28,7 +28,7 @@ Why there? As a UX Team, we wanted to make sure we were aware of the user frustr
 
 #####  What the user would need to buy tickets
 
-Among our group, onboarding and walkthroughs seemed to be peaking in popularity. Would we hit the mark to start with a tour of all features? With this at top of mind, I had begun to risk away my 1/4 of the team synthesis. I failed to get comfortable and comprehensive with the user flow. I knew it and tried immediately to move past it.
+Among our group, onboarding and walkthroughs seemed to be peaking in popularity. Would we hit the mark to start with a tour of all features? With this at the top of mind, I had begun to risk away my 1/4 of the team synthesis. I failed to get comfortable and comprehensive with the user flow. I knew it and tried immediately to move past it.
 
 
 I played a little too close into the idea of a laser-guided interview.  I thought that if my questions were well-prepared, my inquiry would feel like a conversation.  My chill default did kick in at 1/4 of the way into the interview. But, I let an unexpected start bother me. I thought I would not receive what I needed as soon as the line of questioning felt foreign to me, the person asking the questions.
