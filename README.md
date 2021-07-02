@@ -1,7 +1,7 @@
 # Outdoor Music Venue
 
 ## Navigating Northerly Island
-I was eager to see the successful conclusion to this project. We had two weeks.
+I was eager to see the successful conclusion of this project. We had two week to finish.
 
 ### Project Challenge
 How do we improve the experience of going to an outdoor show?
