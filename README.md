@@ -16,7 +16,7 @@ I will compress a design process that focuses on seemingly small topics like the
 
 Previous design decisions were unavailable to us. We took a status snapshot of our thinking on loose leaf paper.  
 
-At first glance, it seemed that the previous design likely included the use of a template, to a large extent.   As a result, any search engine algorithm would seem to put forth scattered results.  
+At first glance, it seemed that the previous design effectiveness was buried under confusing search engine results.  This was the beginning of our flow.
 
 Why reach there? As a UX Team, we wanted to make sure we were aware of the user’s experience at the absolute beginning. A mobile task may start with a text, a crowded room request, or any other number of circumstances 
 
