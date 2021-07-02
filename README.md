@@ -14,7 +14,7 @@ I will compress a design process that focuses on seemingly small topics like the
 
 #### Process
 
-Previous design decisions were unavailable to us. To take a status snapshot of our thinking, we proceeded to let loose on paper.  
+Previous design decisions were unavailable to us. We took a status snapshot of our thinking on loose leaf paper.  
 
 At first glance, it seemed that the previous design likely included the use of a template, to a large extent.   As a result, any search engine algorithm would seem to put forth scattered results.  
 
