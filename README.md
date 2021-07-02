@@ -1,15 +1,20 @@
 # Outdoor Music Venue
 
 ## Navigating Northerly Island
+
 I was eager to see the successful conclusion of this project. We had two week to finish.
 
 ### Project Challenge
+
 How do we improve the experience of going to an outdoor show?
 
-#### Process
-This could be an opportunity.  Our team was optimistic.
+This could be an opportunity.  Our team was optimistic. 
 
 I will compress a design process that focuses on seemingly small topics like the weather. 
+
+#### Process
+
+
 
 Previous design decisions were unavailable to us. To take a status snapshot of our thinking, we proceeded to let loose on paper.  
 
