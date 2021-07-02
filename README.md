@@ -1,19 +1,12 @@
 # Huntington Bank Pavilion
 
-## Navigating Northerly Island on Mobile
-
-
-Early on in the process, I was eager to see the successful conclusion to this project. 
-
-Our team's time allocation was lawless. We were drawing on excitement. The branding of our project was starting to take shape.  The team trajectory imagined solutions that felt intuitive because we felt unstoppable.
-
-In two weeks, we were ready to show off to our stakeholders.   
+## Outdoor Music Venue - Navigating Northerly Island
+I was eager to see the successful conclusion to this project. In two weeks, we were ready to show off to our stakeholders.   
 
 ### Project Challenge
-How do we improve the digital experience of purchasing a ticket and going to a show at an outdoor music venue?
+How do we improve the acts of purchasing a ticket and going to a show as a digital experience?
 
 #### Process
-
 Which website has search authority? Search engine consensus seemed scattered. This could be an opportunity.  Our team was anxious and optimistic.
 
 Like trying to ship balloons by getting them into the suitcase, I will compress a design process that focuses on seemingly small topics like the weather. 
