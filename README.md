@@ -10,7 +10,7 @@ How do we improve the experience of going to an outdoor show?
 
 This could be an opportunity.  Our team was optimistic. 
 
-I will compress a design process that focuses on seemingly small topics like the weather. 
+A design process that focuses on topics like the weather will be compressed into a strategy for streamlining ticket sales.
 
 #### Process
 
