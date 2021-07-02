@@ -20,10 +20,8 @@ At first glance, it seemed that the previous design effectiveness was buried und
 
 Why there? As a UX Team, we wanted to make sure we were aware of the user frustrations at the very beginning. A mobile task may start with any number of circumstances:
 
-\- a text
-\- a crowded room request
-
-
+- a text
+- a crowded room request
 
 
 #####  What the user would need to buy tickets
