@@ -1,36 +1,26 @@
 
 # Navigating Northerly Island
 
-1.  [Outdoor Music Venue](#orge99668f)
-    1.  [Project Challenge](#org388b04f)
-        1.  [Process](#org43d32ba)
-    2.  [What the user would need to buy tickets](#org472ef93)
-    3.  [Design at synthesis](#orged69678)
-        1.  [Notice the filterable options.](#orga2dd713)
-        2.  [Having to deal with bad weather](#org00daa7b)
-        3.  [Lessons learned](#orga5e8c5b)
+1.  [Outdoor Music Venue](#org4cd88ef)
+    1.  [# Navigating Northerly Island](#org8d1f98d)
+        1.  [Filterable options](#orga6d6dee)
+        2.  [Lessons](#org45df1af)
 
 
-<a id="orge99668f"></a>
+<a id="org4cd88ef"></a>
 
 # Outdoor Music Venue
 
-I was eager to see the conclusion of this project. We had two weeks to finish.
+<a id="org5fe4eb7"></a>
 
-
-<a id="org388b04f"></a>
-
-## Project Challenge
+**Project Challenge**
 
 How do we improve the experience of going to an outdoor show? This could
 be an opportunity. Our team was optimistic. A design process that
 focuses on topics like the weather will be compressed into a strategy
 for streamlining ticket sales.
 
-
-<a id="org43d32ba"></a>
-
-### Process
+**Process**
 
 Previous design decisions were unavailable to us. We took a status
 snapshot of our thinking on loose-leaf paper.
@@ -44,10 +34,7 @@ with any number of circumstances:
 -   a text
 -   a crowded room request
 
-
-<a id="org472ef93"></a>
-
-## What the user would need to buy tickets
+**What the user would need to buy tickets**
 
 Among our group, onboarding and walkthroughs seemed to be peaking in
 popularity. Would we hit the mark to start with a tour of all features?
@@ -61,10 +48,7 @@ interview. But, I let an unexpected start bother me. I thought I would
 not receive what I needed as soon as the line of questioning felt
 foreign to me, the person asking the questions.
 
-
-<a id="orged69678"></a>
-
-## Design at synthesis
+**Design at synthesis**
 
 The users' case for wanting to find amenities was injected and assumed
 early. I mean, they already bought tickets! When I volunteered as the
@@ -80,9 +64,9 @@ specialized that it can break the team's implementation of hierarchy,
 for example?
 
 
-<a id="orga2dd713"></a>
+<a id="orga6d6dee"></a>
 
-### Notice the filterable options.
+### Filterable options
 
 Our lovely venue has a weird seating format.
 
@@ -94,15 +78,10 @@ our visualizations together through the process, opting for focusing on
 the finish line. The result is a slightly partitioned experience for the
 user.
 
-
-<a id="org00daa7b"></a>
-
-### Having to deal with bad weather
-
-no umbrella, acquiescing to seat squatting, or just getting lost in
-navigation are examples. Interviews that the team and I conducted point
-to the importance of experience-ruiners. Moments that lose the fun of
-the concert or lose the core experience are looming.
+**Bad weather** no umbrella, acquiescing to seat squatting, or just
+getting lost in navigation are examples. Interviews that the team and I
+conducted point to the importance of experience-ruiners. Moments that
+lose the fun of the concert or lose the core experience are looming.
 
 The interviews were conducted to shed light on a representative user.
 The business, however, was regional in the sense that the information
@@ -110,9 +89,9 @@ you get to go to a concert is in a different place than where you would
 learn dates, times, rules, and same-day setups.
 
 
-<a id="orga5e8c5b"></a>
+<a id="org45df1af"></a>
 
-### Lessons learned
+### Lessons
 
 Step in, address, discuss, and time box to an agreement. Time pressure
 is coming. Don't let that train pull away without at least an
