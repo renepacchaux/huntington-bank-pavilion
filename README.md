@@ -1,54 +1,120 @@
-# Outdoor Music Venue
 
-## Navigating Northerly Island
+# Navigating Northerly Island
+
+1.  [Outdoor Music Venue](#orge99668f)
+    1.  [Project Challenge](#org388b04f)
+        1.  [Process](#org43d32ba)
+    2.  [What the user would need to buy tickets](#org472ef93)
+    3.  [Design at synthesis](#orged69678)
+        1.  [Notice the filterable options.](#orga2dd713)
+        2.  [Having to deal with bad weather](#org00daa7b)
+        3.  [Lessons learned](#orga5e8c5b)
+
+
+<a id="orge99668f"></a>
+
+# Outdoor Music Venue
 
 I was eager to see the conclusion of this project. We had two weeks to finish.
 
-### Project Challenge
 
-How do we improve the experience of going to an outdoor show?
+<a id="org388b04f"></a>
 
-This could be an opportunity.  Our team was optimistic. 
+## Project Challenge
 
-A design process that focuses on topics like the weather will be compressed into a strategy for streamlining ticket sales.
-
-#### Process
-
-Previous design decisions were unavailable to us. We took a status snapshot of our thinking on loose-leaf paper.  
-
-At first glance, it seemed that the previous design effectiveness was buried under confusing search engine results.  This was the beginning of our flow.
-
-Why there? As a UX Team, we wanted to make sure we were aware of the user frustrations at the very beginning. A mobile task may start with any number of circumstances:
-
-- a text
-- a crowded room request
+How do we improve the experience of going to an outdoor show? This could
+be an opportunity. Our team was optimistic. A design process that
+focuses on topics like the weather will be compressed into a strategy
+for streamlining ticket sales.
 
 
-#####  What the user would need to buy tickets
+<a id="org43d32ba"></a>
 
-Among our group, onboarding and walkthroughs seemed to be peaking in popularity. Would we hit the mark to start with a tour of all features? With this at the top of mind, I had begun to risk away my 1/4 of the team synthesis. I failed to get comfortable and comprehensive with the user flow. I knew it and tried immediately to move past it.
+### Process
 
+Previous design decisions were unavailable to us. We took a status
+snapshot of our thinking on loose-leaf paper.
 
-I played a little too close into the idea of a laser-guided interview.  I thought that if my questions were well-prepared, my inquiry would feel like a conversation.  My chill default did kick in at 1/4 of the way into the interview. But, I let an unexpected start bother me. I thought I would not receive what I needed as soon as the line of questioning felt foreign to me, the person asking the questions.
+At first glance, it seemed that the previous design effectiveness was
+buried under confusing search engine results. This was the beginning of
+our flow. Why there? As a UX Team, we wanted to make sure we were aware
+of the user frustrations at the very beginning. A mobile task may start
+with any number of circumstances:
 
-##### Design at synthesis
-
-The users’ case for wanting to find amenities was injected and assumed early. I mean, they already bought tickets! When I volunteered as the cartographer, I departed from fleshing out the delta between a user flow where you primary buy tickets to one where you start already at the show. That is only  50% of the battle.
-
-
-I armed the app for relevance, attaching a map with the understanding that visualizing the stadium is what the user shapes in their mind as something now relevant to them.  The stakeholder would want quicker uptake, reference to app.  But have I broken it?  Is my visualization so specialized that it can break the team’s implementation of hierarchy, for example?
-
-Notice the filterable options. Our lovely venue has a weird seating format.
--- 
-
-Our adhoc PM Delegated uphill, not envied by me. The process was freeform. Few guardrails were set up after we did our research. We worked towards our overall requirements by sketching, understanding our representative user, joining meetings - but with a shortfall in welding our visualizations together through the process, opting for focusing on the finish line. The result is a slightly partitioned experience for the user.
+-   a text
+-   a crowded room request
 
 
-Having to deal with bad weather, no umbrella, acquiescing to seat squatting, or just getting lost in navigation are examples. Interviews that the team and I conducted point to the importance of experience-ruiners. Moments that lose the fun of the concert or lose the core experience are looming.  
---
+<a id="org472ef93"></a>
 
-The interviews were conducted to shed light on a representative user. The business, however, was regional in the sense that the information you get to go to a concert is in a different place than where you would learn dates, times, rules, and same-day setups.
+## What the user would need to buy tickets
 
-#### Lessons learned
+Among our group, onboarding and walkthroughs seemed to be peaking in
+popularity. Would we hit the mark to start with a tour of all features?
+With this at the top of mind, I had begun to risk away my 1/4 of the
+team synthesis. I failed to get comfortable and comprehensive with the
+user flow. I knew it and tried immediately to move past it. I played a
+little too close into the idea of a laser-guided interview. I thought
+that if my questions were well-prepared, my inquiry would feel like a
+conversation. My chill default did kick in at 1/4 of the way into the
+interview. But, I let an unexpected start bother me. I thought I would
+not receive what I needed as soon as the line of questioning felt
+foreign to me, the person asking the questions.
 
-Step in, address, discuss, and time box to an agreement.  Time pressure is coming.  Don't let that train pull away without at least an opportunity to set the framework to gel as a team.
+
+<a id="orged69678"></a>
+
+## Design at synthesis
+
+The users' case for wanting to find amenities was injected and assumed
+early. I mean, they already bought tickets! When I volunteered as the
+cartographer, I departed from fleshing out the delta between a user flow
+where you primary buy tickets to one where you start already at the
+show. That is only 50% of the battle.
+
+I armed the app for relevance, attaching a map with the understanding
+that visualizing the stadium is what the user shapes in their mind as
+something now relevant to them. The stakeholder would want quicker
+uptake, reference to app. But have I broken it? Is my visualization so
+specialized that it can break the team's implementation of hierarchy,
+for example?
+
+
+<a id="orga2dd713"></a>
+
+### Notice the filterable options.
+
+Our lovely venue has a weird seating format.
+
+Our adhoc PM Delegated uphill, not envied by me. The process was
+freeform. Few guardrails were set up after we did our research. We
+worked towards our overall requirements by sketching, understanding our
+representative user, joining meetings - but with a shortfall in welding
+our visualizations together through the process, opting for focusing on
+the finish line. The result is a slightly partitioned experience for the
+user.
+
+
+<a id="org00daa7b"></a>
+
+### Having to deal with bad weather
+
+no umbrella, acquiescing to seat squatting, or just getting lost in
+navigation are examples. Interviews that the team and I conducted point
+to the importance of experience-ruiners. Moments that lose the fun of
+the concert or lose the core experience are looming.
+
+The interviews were conducted to shed light on a representative user.
+The business, however, was regional in the sense that the information
+you get to go to a concert is in a different place than where you would
+learn dates, times, rules, and same-day setups.
+
+
+<a id="orga5e8c5b"></a>
+
+### Lessons learned
+
+Step in, address, discuss, and time box to an agreement. Time pressure
+is coming. Don't let that train pull away without at least an
+opportunity to set the framework to gel as a team.
+
