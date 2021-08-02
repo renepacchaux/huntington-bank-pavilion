@@ -1,17 +1,19 @@
-
-# Navigating Northerly Island
-
-1.  [Outdoor Music Venue](#org4cd88ef)
-    1.  [# Navigating Northerly Island](#org8d1f98d)
-        1.  [Filterable options](#orga6d6dee)
-        2.  [Lessons](#org45df1af)
+# What we set out to do
 
 
-<a id="org4cd88ef"></a>
+1.  [Outdoor Music Venue](#org7048f20)
+    1.  [Navigating Northerly Island](#org069b172)
+        1.  [Filterable options](#org8710ab3)
+        2.  [Lessons](#orga5bc67f)
+
+
+<a id="org7048f20"></a>
 
 # Outdoor Music Venue
 
-<a id="org5fe4eb7"></a>
+<a id="org069b172"></a>
+
+## Navigating Northerly Island
 
 **Project Challenge**
 
@@ -64,7 +66,7 @@ specialized that it can break the team's implementation of hierarchy,
 for example?
 
 
-<a id="orga6d6dee"></a>
+<a id="org8710ab3"></a>
 
 ### Filterable options
 
@@ -89,7 +91,7 @@ you get to go to a concert is in a different place than where you would
 learn dates, times, rules, and same-day setups.
 
 
-<a id="org45df1af"></a>
+<a id="orga5bc67f"></a>
 
 ### Lessons
 
