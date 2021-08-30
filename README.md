@@ -1,89 +1,131 @@
-# What I set out to do
+# Buying for a rockout
 
-1.  [Outdoor Music Venue](#orge85a10b)
-    1.  [Navigating Northerly Island](#orgff38014)
-        1.  [Project Challenge](#org834b9d8)
-        2.  [Design at synthesis](#orgd839f07)
-        3.  [Filterable options](#org074f72d)
-        4.  [Lessons](#orgbe4b07a)
+1.  [Sell for a headcount](#orgd96c377)
+    1.  [Navigating Northerly Island](#orge7032b9)
+        1.  [Picking priorities](#org5ca59a7)
+        2.  [Designing with Options](#org0a74e05)
+        3.  [App as it is now](#org38737d6)
 
 
-<a id="orge85a10b"></a>
+<a id="orgd96c377"></a>
 
-# Outdoor Music Venue
+# Sell for a headcount
 
-<a id="orgff38014"></a>
+<a id="orge7032b9"></a>
 
 ## Navigating Northerly Island
 
-<a id="org834b9d8"></a>
+**Intro**
 
-### Project Challenge
+I'm visual based ux designer.
 
-How do I improve going to an outdoor show? This could be an opportunity. I was optimistic. A design process that focuses on topics like the weather will be compressed into a strategy for streamlining ticket sales.
+I am going to show that if you are in business of gaining a headcount, you must close the between the experience the resellers are giving. Your name is on the line. Just know the circumstances. You might be designing for a city or public space wanting to lend out the land for use by a bank wanting to get their name to the masses for a summer.
 
-**Process**
+With a few items, you can bridge this gap. you. I'm also going to show you how my own motivation to set guardrails in design, and when trying to buy tickets reflected the initial state of scattered resources to completing a concert experience.
 
-I want awareness of the user frustrations to be a top priority. A mobile task may start with any number of circumstances:
+**Solution**
+
+Stay close to the true quality of attending a concert. Focus on what you can. Set up process guardrails where possible. Wanting to get away with doing less conjures regret at the wrong time: Close the end of our work in a given week precisely when you want to do more.
+
+A mobile task may start with any number of circumstances:
 
 -   a text
 -   a crowded room request
 
+**Right now**
+
+There is no website that is an authority on the right concert.
+
+**Research**
+
+Personas in their respective situations lead me to think about what is in their way to completing a ticket booking or similar. Venues want to sell tickets without being in the music business.
+
+What will kill the experience is cutting up the streams of sales to multiple parties, each with their own hand in the post-sale experience. You buy into an idea that as long as there is copyrighted song coming out of those speakers, it doesn't matter the avenue of payment. It is good to be aware of this.
+
+The past 3 renames were sponsored by banks.
+
+The personas showed us the possibility of one user being the organizer of a group of friends. That had to be factored in. Design for groups if groups is what your business gets.
+
 At first glance, it seemed that the previous design effectiveness was buried under confusing search engine results.
 
-Previous design decisions were not where I needed them to be. I made sure to take a status snapshot on what I was thinking on loose-leaf paper.
+The step that precedes the user flow depends on finding the right site.
 
-This was the beginning of my contribution to the project.
+I want awareness of the user frustrations to be a top priority. I will deal with that as far as I can control. It is clear that this is not a priority as it currently stands.
 
-**What the user would need to buy tickets**
+I made sure to take a status snapshot on what I was thinking on loose-leaf paper.
 
-Onboarding and walkthroughs seemed to be peaking in popularity when I took a poll. I know a feature tour is not enough. With this at the top of mind. I failed to get comfortable and comprehensive with the user flow. I knew it and tried immediately to move past it.
+**Planning reading into user goals**
 
-I played a little too close into the idea of a laser-guided interview. I thought that if my questions were well-prepared, my inquiry would feel like a conversation. My chill default did kick in at 1/4 of the way into the interview. But, I let an unexpected start bother me. I thought I would not receive what I needed as soon as the line of questioning felt foreign to me, the person asking the questions.
+Asking natural questions is had when you have to ignore a script. At least it is in your own words.
 
-<div class="html" id="org869a492">
-<p>
-&lt;div id=”figure1<sub>userflow</sub>”&gt;&lt;/div&gt;
-</p>
+I knew I failed to get comfortable. It was tough to immediately to move past it. Deadlines were not set, only tasks delegated. Like an overweight plane, you have too much precisely when you don't need it.
 
-</div>
+I assumed a mechanical process would play out when conducting an interview. If X then Y. I thought that if my questions were well-prepared, my best laid plans would feel like a conversation. Sterile convos might lead to curt responses where I need deep recalls about a certain time in their life.
 
+A more relaxed stance did naturally kick in at about 1/4 of the way through the research interview. I managed to get on track, but only after I started writing my reflections at the end of the day. I did that with some help even.
 
-<a id="orgd839f07"></a>
+Previous design decisions were not where I needed them to be.
 
-### Design at synthesis
-
-The users' case for wanting to find amenities was injected and assumed early. I mean, they already bought tickets! When I volunteered as the cartographer, I departed from fleshing out the delta between a user flow where you primary buy tickets to one where you start already at the show. That is only 50% of the battle.
-
-I armed the app for relevance, attaching a map with the understanding that visualizing the stadium is what the user shapes in their mind as something now relevant to them. The stakeholder would want quicker uptake, reference to app. But have I broken it? Is my visualization so specialized that it can break the team's implementation of hierarchy, for example?
+Ticket sales were of a separate focus than sites that emphasized navigating the venue. Recognize venues that are not perfect lots.
 
 
-<a id="org074f72d"></a>
+<a id="org5ca59a7"></a>
 
-### Filterable options
+### Picking priorities
 
-I noted that this venue had a weird seating format. The result is a slightly partitioned experience.
+The users' case for wanting to find amenities was injected and assumed early. Assumptions usually carry liability.
 
-My delivery felt uphill. The process was freeform. Few guardrails were set up after research.
+I mean, they already bought tickets.
 
-I had required myself to get through this task by sketching and understandingthe likely user.
+I worked to design the map.
 
-I fell short on welding visualizations together with the process, opting to focus on the finish line.
+I played around a bit with the actual start of the experience of a user. I tried to place where you primary buy tickets. I also tried one flow where you start already at the show. That is only 50% of the battle.
+
+I armed the app for relevance, attaching a map with the understanding that visualizing the stadium is what the user shapes in their mind as something now relevant to them. The current map is Chicago.
+
+But have I broken it? Maps take screen real estate especially on a phone. Is my visualization so specialized that it can break visual hierarchy, for example?
+
+What could be a way to find out how many tickets groups of users buy fter all this is implemented?
+
+
+<a id="org0a74e05"></a>
+
+### Designing with Options
+
+I had required myself to get through this task by sketching and understanding the likely user.
+
+I fell short on welding visualizations together with the process, opting to focus on the finish line. The result is a slightly partitioned experience. Yet it was less partitioned than finding the right website with the right details.
+
+My delivery felt uphill. The process was freeform. Few guardrails were set up after research. I would rather set up guardrails.
+
+I noted that this venue had a weird seating format. Asking people questions about getting to that particular venue, and how it revolved around parking, I was right to think so.
 
 **Bad weather**
 
-No umbrella, acquiescing to seat squatting, or just getting lost in navigation are examples. Interviews that the team and I conducted point to the importance of experience-ruiners. Moments that lose the fun of the concert or lose the core experience are looming.
+The interviews were conducted to shed light on a representative user.
 
-The interviews were conducted to shed light on a representative user. The business, however, was regional in the sense that the information you get to go to a concert is in a different place than where a user would learn dates, times, rules, and same-day setups.
+No umbrella and worrying about seat squatting are issues. Navigation in a possibly new venue is also a frustration. Interviews were a natural step to narrowing down these frustrations.
+
+Any apps that lose are any that fail to weigh in the core concert experience.
+
+What would this look like in a different city, aside from the map? It would.
+
+The business, however, was regional in the sense that the information you get to go to a concert is in a different place than where a user would learn dates, times, rules, and same-day setups.
+
+City by city placement is a next step that can use further discovery.
+
+**Testing**
+
+The data from gathering user test showed there was an emphasis needing to be placed on the calendar.
 
 
-<a id="orgbe4b07a"></a>
+<a id="org38737d6"></a>
 
-### Lessons
+### App as it is now
 
-Step in, address, discuss, and time box to an agreement.
+Step in, address, discuss. You cannot yet buy tickets.
 
-Time pressure is coming. Don't let that train pull away without at least an opportunity to set the framework to gel as a team.
+**Conclusion**
 
-\![originating search](![img](https://cdn.jsdelivr.net/gh/renepacchaux/huntington-bank-pavilion@assets/Figure/1-Originating/Search.svg))
+Align and time box. Time pressure is coming. Work with what you have.
 
