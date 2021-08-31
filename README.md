@@ -1,27 +1,29 @@
-# Buying for a rockout
-
-1.  [Sell for a headcount](#orgd96c377)
-    1.  [Navigating Northerly Island](#orge7032b9)
-        1.  [Picking priorities](#org5ca59a7)
-        2.  [Designing with Options](#org0a74e05)
-        3.  [App as it is now](#org38737d6)
+# Buying for a rock out
 
 
-<a id="orgd96c377"></a>
+1.  [Sell for a headcount](#org0065afe)
+    1.  [Navigating Northerly Island](#orgfc3125a)
+        1.  [Picking priorities](#org6e2480b)
+        2.  [Designing with Options](#orgb2d481f)
+        3.  [App as it is now](#orgb3be185)
+
+
+<a id="org0065afe"></a>
 
 # Sell for a headcount
 
-<a id="orge7032b9"></a>
+
+<a id="orgfc3125a"></a>
 
 ## Navigating Northerly Island
 
 **Intro**
 
-I'm visual based ux designer.
+I am a visual-based UX designer.
 
-I am going to show that if you are in business of gaining a headcount, you must close the between the experience the resellers are giving. Your name is on the line. Just know the circumstances. You might be designing for a city or public space wanting to lend out the land for use by a bank wanting to get their name to the masses for a summer.
+I will show that if you are in the business of gaining a headcount, you must close the gap around the experience multiple resellers are giving. Your name is on the line. Just know the circumstances. You might be designing for a city or public space wanting to lend out the land for use by a bank to the end of getting their name to the masses for a summer.
 
-With a few items, you can bridge this gap. you. I'm also going to show you how my own motivation to set guardrails in design, and when trying to buy tickets reflected the initial state of scattered resources to completing a concert experience.
+With a few items, you can bridge this gap. I am also going to show you how my motivation to set guardrails in design when trying to buy tickets reflected the initial state of scattered resources to completing a concert experience.
 
 **Solution**
 
@@ -34,25 +36,25 @@ A mobile task may start with any number of circumstances:
 
 **Right now**
 
-There is no website that is an authority on the right concert.
+As of this writing, no website is the venue authority for northerly island concerts.
 
 **Research**
 
-Personas in their respective situations lead me to think about what is in their way to completing a ticket booking or similar. Venues want to sell tickets without being in the music business.
+Personas in their respective situations lead me to think about obstacles to completing a ticket booking or similar. Venues want to sell tickets without being in the music business.
 
-What will kill the experience is cutting up the streams of sales to multiple parties, each with their own hand in the post-sale experience. You buy into an idea that as long as there is copyrighted song coming out of those speakers, it doesn't matter the avenue of payment. It is good to be aware of this.
+What will kill the experience is cutting up the sales streams to multiple parties, each with their respective interest in the post-sale experience. You buy into an idea that as long as there is a copyrighted song coming out of those speakers, it doesn't matter the avenue of payment. It is good to be aware of this.
 
-The past 3 renames were sponsored by banks.
+The past three renames were sponsored by banks.
 
-The personas showed us the possibility of one user being the organizer of a group of friends. That had to be factored in. Design for groups if groups is what your business gets.
+The personas showed us the possibility of one user being the organizer of a group of friends. That had to be factored in. Design for groups if groups are what your business gets.
 
 At first glance, it seemed that the previous design effectiveness was buried under confusing search engine results.
 
 The step that precedes the user flow depends on finding the right site.
 
-I want awareness of the user frustrations to be a top priority. I will deal with that as far as I can control. It is clear that this is not a priority as it currently stands.
+I want awareness of the user frustrations to be a top priority. I will deal with that as far as I what I can control. This is not a priority as it currently stands.
 
-I made sure to take a status snapshot on what I was thinking on loose-leaf paper.
+I made sure to take a status snapshot of what I was thinking on loose-leaf paper.
 
 **Planning reading into user goals**
 
@@ -69,7 +71,7 @@ Previous design decisions were not where I needed them to be.
 Ticket sales were of a separate focus than sites that emphasized navigating the venue. Recognize venues that are not perfect lots.
 
 
-<a id="org5ca59a7"></a>
+<a id="org6e2480b"></a>
 
 ### Picking priorities
 
@@ -88,7 +90,7 @@ But have I broken it? Maps take screen real estate especially on a phone. Is my 
 What could be a way to find out how many tickets groups of users buy fter all this is implemented?
 
 
-<a id="org0a74e05"></a>
+<a id="orgb2d481f"></a>
 
 ### Designing with Options
 
@@ -119,7 +121,7 @@ City by city placement is a next step that can use further discovery.
 The data from gathering user test showed there was an emphasis needing to be placed on the calendar.
 
 
-<a id="org38737d6"></a>
+<a id="orgb3be185"></a>
 
 ### App as it is now
 
