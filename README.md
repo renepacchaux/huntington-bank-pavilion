@@ -1,19 +1,18 @@
- ---
- title: Outdoor Pavilion Directions
- description: An outdoor venue app
- data:
-  name:  Northerly Island
-  keyword: directions
- image: "which-nft-image"
- projectUrl: 'https://whichnft.herokuapp.com/'
- team:
-   - Nick
- tools:
-   - miro
- featured: false
- ---
-#### up
-## three
+---
+title: Outdoor Pavilion Directions
+description: An outdoor venue app
+data:
+ name:  Northerly Island
+ keyword: directions
+image: "which-nft-image"
+projectUrl: 'https://whichnft.herokuapp.com/'
+team:
+  - Nick
+tools:
+  - miro
+featured: false
+---
+
 
 # Buying for a rock out
 
