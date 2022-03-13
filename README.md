@@ -14,6 +14,7 @@ featured: false
 ---
 
 
+# Buying Tickets
 
 
 1.  [Sell for a headcount](#org0065afe)
