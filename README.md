@@ -1,3 +1,20 @@
+ ---
+ title: Outdoor Pavilion Directions
+ description: An outdoor venue app
+ data:
+  name:  Northerly Island
+  keyword: directions
+ image: "which-nft-image"
+ projectUrl: 'https://whichnft.herokuapp.com/'
+ team:
+   - Nick
+ tools:
+   - miro
+ featured: false
+ ---
+#### up
+## three
+
 # Buying for a rock out
 
 
@@ -130,4 +147,3 @@ Step in, address, discuss. You cannot yet buy tickets.
 **Conclusion**
 
 Align and time box. Time pressure is coming. Work with what you have.
-
