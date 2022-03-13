@@ -14,7 +14,6 @@ featured: false
 ---
 
 
-# Buying for a rock out
 
 
 1.  [Sell for a headcount](#org0065afe)
