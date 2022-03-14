@@ -5,11 +5,14 @@ data:
   name: Northerly Island
   keyword: directions
 image: which-nft-image
-projectUrl: 'https://whichnft.herokuapp.com/'
+projectUrl: 'https://cloud.protopie.io/p/1c376cc699'
 team:
-  - Nick
+  - Grace DeSant
+  - Semaje Bell
+  - Christie Walsh
 tools:
-  - miro
+  - Whimsical
+  - Flowmapp
 featured: false
 published: true
 ---
