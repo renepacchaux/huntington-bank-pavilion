@@ -35,7 +35,6 @@ published: true
 
 Getting in and out of a concert venue should be a walk in the park.  Surely it lives on a website somewhere.  Unfortunately, there was no such authority for parking, drop-offs, umbrella purchase, or getting in or out of this Chicago music pavilion.  Chicago is my home -- so let's make one.
 
--- 
 
 I am a visual-based UX designer.
 
@@ -54,10 +53,6 @@ A mobile task may start with any number of circumstances:
 
 -   a text
 -   a crowded room request
-
-
----
-
 
 **Research**
 
