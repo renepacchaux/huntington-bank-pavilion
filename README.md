@@ -1,18 +1,21 @@
 ---
-title: Outdoor Pavilion Directions
-description: An outdoor venue app
+title: Music Pavilion
+description: >-
+  An outdoor venue app that highlighted the need for a small set of instructions
+  on where to find user amenities at an outdoor pavilion.
 data:
-  name: Northerly Island
-  keyword: directions
+  name: Outdoor Venue
+  keyword: amenities
 image: which-nft-image
 projectUrl: 'https://cloud.protopie.io/p/1c376cc699'
 team:
-  - Grace DeSant
-  - Semaje Bell
-  - Christie Walsh
+  - 'Grace DeSant, UX'
+  - 'Semaje Bell, UX'
+  - 'Christie Walsh, UX'
 tools:
   - Whimsical
   - Flowmapp
+  - Google Slides
 featured: false
 published: true
 ---
