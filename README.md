@@ -1,8 +1,6 @@
 ---
 title: Music Pavilion
-description: >-
-  An outdoor venue app that highlighted the need for a small set of instructions
-  on where to find user amenities at an outdoor pavilion.
+description: Need for finding user amenities
 data:
   name: venues
   keyword: amenities
