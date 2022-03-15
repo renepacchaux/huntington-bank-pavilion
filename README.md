@@ -4,7 +4,7 @@ description: >-
   An outdoor venue app that highlighted the need for a small set of instructions
   on where to find user amenities at an outdoor pavilion.
 data:
-  name: Outdoor Venue
+  name: venues
   keyword: amenities
 image: which-nft-image
 projectUrl: 'https://cloud.protopie.io/p/1c376cc699'
