@@ -19,16 +19,6 @@ published: true
 ---
 
 
-# Buying Tickets
-
-
-1.  [Picking priorities](#org6e2480b)
-2.  [Designing with Options](#orgb2d481f)
-3.  [App as it is now](#orgb3be185)
-
-
-
-
 ## Navigating Northerly Island
 
 **Intro**
@@ -87,8 +77,6 @@ Previous design decisions were not where I needed them to be.
 Ticket sales were of a separate focus than sites that emphasized navigating the venue. Recognize venues that are not perfect lots.
 
 
-<a id="org6e2480b"></a>
-
 ### Picking priorities
 
 The users' case for wanting to find amenities was injected and assumed early. Assumptions usually carry liability.
@@ -106,7 +94,6 @@ But have I broken it? Maps take screen real estate especially on a phone. Is my 
 What could be a way to find out how many tickets groups of users buy fter all this is implemented?
 
 
-<a id="orgb2d481f"></a>
 
 ### Designing with Options
 
@@ -135,9 +122,6 @@ City by city placement is a next step that can use further discovery.
 **Testing**
 
 The data from gathering user test showed there was an emphasis needing to be placed on the calendar.
-
-
-<a id="orgb3be185"></a>
 
 ### App as it is now
 
