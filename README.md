@@ -1,9 +1,9 @@
 ---
-title: Outdoor Pavilion Directions
-description: Need for finding user amenities
+title: Music Pavilion
+description: Why amenities are important
 data:
   name: venues
-  keyword: amenities
+  keyword: ok
 image: which-nft-image
 projectUrl: 'https://cloud.protopie.io/p/1c376cc699'
 team:
