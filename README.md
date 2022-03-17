@@ -1,5 +1,5 @@
 ---
-title: Music Pavilion
+title: Outdoor Pavilion Directions
 description: Need for finding user amenities
 data:
   name: venues
