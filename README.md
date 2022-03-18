@@ -1,3 +1,16 @@
+---
+description: Why amenities are important
+image: which-nft-image
+projectUrl: 'https://cloud.protopie.io/p/1c376cc699'
+team:
+  - 'Grace DeSant, UX'
+  - 'Semaje Bell, UX'
+  - 'Christie Walsh, UX'
+tools:
+  - Whimsical
+  - Flowmapp
+  - Google Slides
+---
 ## Navigating Northerly Island
 
 **Intro**
