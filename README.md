@@ -11,6 +11,7 @@ tools:
   - Flowmapp
   - Google Slides
 published: true
+title: Outdoor Music Venue
 ---
 ## Navigating Northerly Island
 
