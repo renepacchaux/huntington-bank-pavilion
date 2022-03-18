@@ -13,7 +13,7 @@ tools:
 published: true
 title: Outdoor Music Venue
 ---
-## Navigating Northerly Island
+## Northerly Island
 
 **Intro**
 
