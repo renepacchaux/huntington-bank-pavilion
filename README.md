@@ -19,9 +19,6 @@ title: Outdoor Music Venue
 
 Getting in and out of a concert venue should be a walk in the park.  Surely it lives on a website somewhere.  Unfortunately, there was no such authority for parking, drop-offs, umbrella purchase, or getting in or out of this Chicago music pavilion.  Chicago is my home -- so let's make one.
 
-
-I am a visual-based UX designer.
-
 I will show that if you are in the business of gaining a headcount, you must close the gap around the experience multiple resellers are giving. Your name is on the line. Just know the circumstances. You might be designing for a city or public space wanting to lend out the land for use by a bank to the end of getting their name to the masses for a summer.
 
 With a few items, you can bridge this gap. I am also going to show you how my motivation to set guardrails in design when trying to buy tickets reflected the initial state of scattered resources to completing a concert experience.
