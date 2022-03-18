@@ -10,6 +10,7 @@ tools:
   - Whimsical
   - Flowmapp
   - Google Slides
+published: true
 ---
 ## Navigating Northerly Island
 
